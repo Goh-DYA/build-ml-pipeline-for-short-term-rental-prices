@@ -605,7 +605,8 @@ Please, make sure all steps are using **the same** python version and that you h
 
 ## Other Submission Information
 
-Link to W&B project: https://wandb.ai/adisongoh-national-university-of-singapore/nyc_airbnb/overview
+- Github Repository: [Link](https://github.com/Goh-DYA/build-ml-pipeline-for-short-term-rental-prices)
+- Link to W&B project: [Report](https://wandb.ai/adisongoh-national-university-of-singapore/nyc_airbnb/reports/Submission-for-Udacity-MLDevOps-Assignment--VmlldzoxMjQ4NDY1Ng?accessToken=9w4vlybftgbffand26p7cx4v458cmqipmc6nao9g6g0y7gjudxm9bviy6ugz9gft)
 
 
 ## License
